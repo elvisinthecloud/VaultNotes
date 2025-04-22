@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "78cd124f82b1264f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c918ac4d108326b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94f2c659178b584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA-GRS vs GRS"
+            }
+          },
+          {
+            "id": "4e12082cdb3c8dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAS User Access Scenario"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f74ef3044a5f36f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7406a8e6211578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbbe3c72f58efbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abac240cb91b5406",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58403a1c8f080f8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.50110626220703
+  },
+  "right": {
+    "id": "afa6ce203129862c",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ca811115a68085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0610ffcf7b18b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SAS User Access Scenario"
+            }
+          },
+          {
+            "id": "927edb9ec48bf67f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SAS User Access Scenario"
+            }
+          },
+          {
+            "id": "a5d5c8257ee49fbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38d7bd20b1bee038",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SAS User Access Scenario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfbbe3c72f58efbe",
+  "lastOpenFiles": [
+    "AZ-104/Manage Storage/Access Control/SAS Token.md",
+    "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+    "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
+    "AZ-104/Manage Storage/Data Protection/Soft Delete.md",
+    "AZ-104/Manage Storage/Replication/Changing Replication Types - CLI.md",
+    "2025-04-21.md",
+    "AZ-104/Untitled.canvas",
+    "AZ-104/Manage Storage/Data Protection",
+    "AZ-104/Manage Storage/Access Control",
+    "AZ-104/Manage Storage/Replication",
+    "AZ-104/Manage Storage",
+    "Untitled",
+    "Welcome.md",
+    "AZ-104"
+  ]
+}
