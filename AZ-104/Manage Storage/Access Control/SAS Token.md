@@ -96,13 +96,13 @@ But be careful:
 
 SAS isn’t just for blob storage — here’s where you can use it:
 
-|Storage Type|Can Use SAS?|Common Uses|
-|---|---|---|
-|**Blob Storage**|✅ Yes|Files, images, backups|
-|**File Shares (SMB)**|✅ Yes|Temporary file share access|
-|**Queues**|✅ Yes|Messaging between apps|
-|**Tables**|✅ Yes|Structured NoSQL-style data|
-|**Containers**|✅ Yes|Grant access to entire folders of blobs|
+| Storage Type          | Can Use SAS? | Common Uses                             |
+| --------------------- | ------------ | --------------------------------------- |
+| **Blob Storage**      | ✅ Yes        | Files, images, backups                  |
+| **File Shares (SMB)** | ✅ Yes        | Temporary file share access             |
+| **Queues**            | ✅ Yes        | Messaging between apps                  |
+| **Tables**            | ✅ Yes        | Structured NoSQL-style data             |
+| **Containers**        | ✅ Yes        | Grant access to entire folders of blobs |
 
 ---
 

@@ -55,4 +55,3 @@ In the **Storage Account > Data Protection** section (or CLI), you enable:
 
 ---
 
-Let me know if you want to practice with blob policies or go hands-on in the CLI with configuring Soft Delete! You're thinking in all the right directions 🔥
