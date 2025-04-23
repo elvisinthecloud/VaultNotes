@@ -8,133 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e94f2c659178b584",
+            "id": "03c0428f8d5aae56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
+                "file": "AZ-104/Configure secure access to virtual machines/Azure Bastion/AZ Bastion vs Self Hosted Jump Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-GRS vs GRS"
+              "title": "AZ Bastion vs Self Hosted Jump Box"
             }
           },
           {
-            "id": "4e12082cdb3c8dee",
+            "id": "aabb5d2811983cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
+                "file": "Deploying ARM Template VIA CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RA-GRS vs GRS"
+              "title": "Deploying ARM Template VIA CLI"
             }
           },
           {
-            "id": "c281143e9bb33891",
+            "id": "8ce32f6b96e8833b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RA-GRS vs GRS"
-            }
-          },
-          {
-            "id": "f282bf3a5a4fe445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Implement and Manage Storage/Backups/Recovery Services Vault.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recovery Services Vault"
-            }
-          },
-          {
-            "id": "a55b43c879b07441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/Availability Zones vs Availability Set.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Availability Zones vs Availability Set"
-            }
-          },
-          {
-            "id": "51b97a6022efc8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA"
-            }
-          },
-          {
-            "id": "7c33e72aff693723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azure Bastion"
-            }
-          },
-          {
-            "id": "5d5bd26dbb73131b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Implement and Manage Storage/Access Control/SAS Token.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAS Token"
-            }
-          },
-          {
-            "id": "6cb42450749e0161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/Implement and Manage Storage/Access Control/SAS User Access Scenario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAS User Access Scenario"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,13 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfbbe3c72f58efbe",
+  "active": "aabb5d2811983cf6",
   "lastOpenFiles": [
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion/AZ Bastion vs Self Hosted Jump Box.md",
+    "Deploying ARM Template VIA CLI.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion/Subnet Requirements and Network Flow.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion/What is Azure Bastion?.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion",
     "AZ-104/Manage AZ Identities and Governance",
     "AZ-104/Monitor and Maintain AZ Resources",
     "AZ-104/Configure and Manage Virtual Networking",
     "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA.md",
-    "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
     "AZ-104/Configure secure access to virtual machines",
     "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/Availability Zones vs Availability Set.md",
     "SLA",
@@ -304,8 +221,6 @@
     "AZ-104/Implement and Manage Storage/Access Control/SAS User Access Scenario.md",
     "AZ-104/Implement and Manage Storage/Import and Export",
     "2025-04-21.md",
-    "AZ-104/Untitled.canvas",
-    "AZ-104/Implement and Manage Storage/Data Protection",
-    "AZ-104/Implement and Manage Storage/Access Control"
+    "AZ-104/Untitled.canvas"
   ]
 }
