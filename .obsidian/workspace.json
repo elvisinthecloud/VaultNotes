@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
+                "file": "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
+                "file": "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Backups/Recovery Services Vault.md",
+                "file": "AZ-104/Implement and Manage Storage/Backups/Recovery Services Vault.md",
                 "mode": "preview",
                 "source": false
               },
@@ -64,12 +64,54 @@
             }
           },
           {
+            "id": "a55b43c879b07441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/Availability Zones vs Availability Set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Availability Zones vs Availability Set"
+            }
+          },
+          {
+            "id": "51b97a6022efc8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA"
+            }
+          },
+          {
+            "id": "7c33e72aff693723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure Bastion"
+            }
+          },
+          {
             "id": "5d5bd26dbb73131b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Access Control/SAS Token.md",
+                "file": "AZ-104/Implement and Manage Storage/Access Control/SAS Token.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
+                "file": "AZ-104/Implement and Manage Storage/Access Control/SAS User Access Scenario.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 334.5
   },
   "right": {
     "id": "afa6ce203129862c",
@@ -241,22 +283,29 @@
   },
   "active": "bfbbe3c72f58efbe",
   "lastOpenFiles": [
-    "AZ-104/Manage Storage/Replication/RA-GRS vs GRS.md",
-    "AZ-104/Manage Storage/Backups/Recovery Services Vault.md",
-    "AZ-104/Manage Storage/Backups",
+    "AZ-104/Manage AZ Identities and Governance",
+    "AZ-104/Monitor and Maintain AZ Resources",
+    "AZ-104/Configure and Manage Virtual Networking",
+    "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/SLA Trap Why VM Scale Sets (Without Zones) Don’t Meet 99.95% SLA.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
+    "AZ-104/Configure secure access to virtual machines",
+    "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability/Availability Zones vs Availability Set.md",
+    "SLA",
+    "AZ-104/Implement and Manage Storage/Backups/Recovery Services Vault.md",
+    "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability",
+    "AZ-104/Deploy and Manage AZ Compute Resources",
+    "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
+    "AZ-104/Implement and Manage Storage/Backups",
     "Welcome.md",
-    "AZ-104/Manage Storage/Replication/Changing Replication Types - CLI.md",
-    "AZ-104/Manage Storage/Import and Export/Databox vs Import and Export.md",
-    "AZ-104/Manage Storage/Data Protection/Soft Delete.md",
-    "AZ-104/Manage Storage/Access Control/SAS Token.md",
-    "AZ-104/Manage Storage/Access Control/SAS User Access Scenario.md",
-    "AZ-104/Manage Storage/Import and Export",
+    "AZ-104/Implement and Manage Storage/Replication/Changing Replication Types - CLI.md",
+    "AZ-104/Implement and Manage Storage/Import and Export/Databox vs Import and Export.md",
+    "AZ-104/Implement and Manage Storage/Data Protection/Soft Delete.md",
+    "AZ-104/Implement and Manage Storage/Access Control/SAS Token.md",
+    "AZ-104/Implement and Manage Storage/Access Control/SAS User Access Scenario.md",
+    "AZ-104/Implement and Manage Storage/Import and Export",
     "2025-04-21.md",
     "AZ-104/Untitled.canvas",
-    "AZ-104/Manage Storage/Data Protection",
-    "AZ-104/Manage Storage/Access Control",
-    "AZ-104/Manage Storage/Replication",
-    "AZ-104/Manage Storage",
-    "AZ-104"
+    "AZ-104/Implement and Manage Storage/Data Protection",
+    "AZ-104/Implement and Manage Storage/Access Control"
   ]
 }
