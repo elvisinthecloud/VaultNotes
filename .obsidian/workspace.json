@@ -8,45 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03c0428f8d5aae56",
+            "id": "8d723ee6f4821fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/Configure secure access to virtual machines/Azure Bastion/AZ Bastion vs Self Hosted Jump Box.md",
+                "file": "AZ-104/Configure and Manage Virtual Networking/Configure Load Balancing/ILB vs App Gateway vs Traffic Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AZ Bastion vs Self Hosted Jump Box"
-            }
-          },
-          {
-            "id": "aabb5d2811983cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deploying ARM Template VIA CLI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deploying ARM Template VIA CLI"
-            }
-          },
-          {
-            "id": "8ce32f6b96e8833b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "ILB vs App Gateway vs Traffic Manager"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,12 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aabb5d2811983cf6",
+  "active": "8d723ee6f4821fe2",
   "lastOpenFiles": [
-    "AZ-104/Configure secure access to virtual machines/Azure Bastion/AZ Bastion vs Self Hosted Jump Box.md",
-    "Deploying ARM Template VIA CLI.md",
-    "AZ-104/Configure secure access to virtual machines/Azure Bastion/Subnet Requirements and Network Flow.md",
     "AZ-104/Configure secure access to virtual machines/Azure Bastion/What is Azure Bastion?.md",
+    "AZ-104/Configure and Manage Virtual Networking/Configure Load Balancing/ILB vs App Gateway vs Traffic Manager.md",
+    "AZ-104/Configure secure access to virtual machines/Firewalls/Rule Collection Types.md",
+    "AZ-104/Configure and Manage Virtual Networking/Global VNET Peering.md",
+    "AZ-104/Configure and Manage Virtual Networking/P2S VPN Q-B.md",
+    "AZ-104/Deploy and Manage AZ Compute Resources/App Service Plan Tiers.md",
+    "AZ-104/Deploy and Manage AZ Compute Resources/Deploying ARM Template VIA CLI.md",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion/AZ Bastion vs Self Hosted Jump Box.md",
+    "AZ-104/Configure and Manage Virtual Networking/Configure Load Balancing",
+    "AZ-104/Configure secure access to virtual machines/Firewalls",
+    "AZ-104/Configure secure access to virtual machines/Azure Bastion/Subnet Requirements and Network Flow.md",
     "AZ-104/Configure secure access to virtual machines/Azure Bastion.md",
     "AZ-104/Configure secure access to virtual machines/Azure Bastion",
     "AZ-104/Manage AZ Identities and Governance",
@@ -212,14 +194,12 @@
     "AZ-104/Deploy and Manage AZ Compute Resources/Configure High Availability",
     "AZ-104/Deploy and Manage AZ Compute Resources",
     "AZ-104/Implement and Manage Storage/Replication/RA-GRS vs GRS.md",
-    "AZ-104/Implement and Manage Storage/Backups",
     "Welcome.md",
     "AZ-104/Implement and Manage Storage/Replication/Changing Replication Types - CLI.md",
     "AZ-104/Implement and Manage Storage/Import and Export/Databox vs Import and Export.md",
     "AZ-104/Implement and Manage Storage/Data Protection/Soft Delete.md",
     "AZ-104/Implement and Manage Storage/Access Control/SAS Token.md",
     "AZ-104/Implement and Manage Storage/Access Control/SAS User Access Scenario.md",
-    "AZ-104/Implement and Manage Storage/Import and Export",
     "2025-04-21.md",
     "AZ-104/Untitled.canvas"
   ]
